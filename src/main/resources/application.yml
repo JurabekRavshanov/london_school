@@ -1,0 +1,23 @@
+spring:
+  application:
+    name: london_school
+  datasource:
+    driverClassName: org.postgresql.Driver
+    password: root123
+    url: jdbc:postgresql://localhost:5432/london_school
+    username: postgres
+  jpa:
+    open-in-view: false
+    hibernate:
+      ddl-auto: create
+
+  task:
+    execution:
+      pool:
+        core-size: 8
+        max-size: 32
+        queue-capacity: 100
+bot:
+  token: 6752857679:AAEtWgteiz0SVomhbOEKjQOOb_vZTCHpnlU
+server:
+  port: 8080

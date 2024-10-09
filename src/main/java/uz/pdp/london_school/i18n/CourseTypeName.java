@@ -1,0 +1,37 @@
+package uz.pdp.london_school.i18n;
+
+public interface CourseTypeName {
+    String ENGLISH_FOR_KIDS = "ENGLISH_FOR_KIDS";
+    String ENGLISH_FOR_SCHOOL = "ENGLISH_FOR_SCHOOL";
+    String GENERAL_ENGLISH = "GENERAL_ENGLISH";
+    String IELTS = "IELTS";
+    String CEFR = "CEFR";
+    String DTM = "DTM";
+    String RUSSIAN = "RUSSIAN";
+    String DEUTCH = "DEUTCH";
+    String MATHS = "MATHS";
+    String KOREAN = "KOREAN";
+    String MATHS_IN_ENGLISH = "MATHS_IN_ENGLISH";
+    String SAT = "SAT";
+    String BABY = "BABY";
+    String CHILD = "CHILD";
+    String UZBEK_FOR_SCHOOL = "UZBEK_FOR_SCHOOL";
+    String UZBEK_FOR_ADULT = "UZBEK_FOR_ADULT";
+    String PAINTING = "PAINTING";
+    String CHESS = "CHESS";
+    String KNITTING = "KNITTING";
+    String BEADING = "BEADING";
+    String DANCE = "DANCE";
+    String PAINTING_MASTER_CLASS = "PAINTING_MASTER_CLASS";
+    String CHOREOGRAPHY = "CHOREOGRAPHY";
+    String WEB = "WEB";
+    String COMPUTER_GRAPHICS = "COMPUTER_GRAPHICS";
+    String COMPUTER_LITERACY = "COMPUTER_LITERACY";
+    String SPEAKING_CLUB = "SPEAKING_CLUB";
+    String AFTER_SCHOOL_PROGRAM = "AFTER_SCHOOL_PROGRAM";
+    String CONSULTING_TEACHING = "CONSULTING_TEACHING";
+    String PSYCHOLOGY = "PSYCHOLOGY";
+    String SUMMER_CAMP = "SUMMER_CAMP";
+    String INDIVIDUAL_ENGLISH = "INDIVIDUAL_ENGLISH";
+
+}
