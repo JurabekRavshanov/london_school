@@ -1,7 +1,6 @@
 package uz.pdp.london_school;
 
 import com.pengrad.telegrambot.TelegramBot;
-import lombok.RequiredArgsConstructor;
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
